@@ -1,0 +1,17 @@
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss.Test\bin\Debug\netcoreapp2.2\AgileBridgeAss.Test.deps.json
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss.Test\bin\Debug\netcoreapp2.2\AgileBridgeAss.Test.runtimeconfig.json
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss.Test\bin\Debug\netcoreapp2.2\AgileBridgeAss.Test.runtimeconfig.dev.json
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss.Test\bin\Debug\netcoreapp2.2\AgileBridgeAss.Test.dll
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss.Test\bin\Debug\netcoreapp2.2\AgileBridgeAss.Test.pdb
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss.Test\bin\Debug\netcoreapp2.2\AgileBridgeAss.dll
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss.Test\bin\Debug\netcoreapp2.2\AgileBridgeAss.pdb
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss.Test\obj\Debug\netcoreapp2.2\AgileBridgeAss.Test.csprojAssemblyReference.cache
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss.Test\obj\Debug\netcoreapp2.2\AgileBridgeAss.Test.csproj.CoreCompileInputs.cache
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss.Test\obj\Debug\netcoreapp2.2\AgileBridgeAss.Test.AssemblyInfoInputs.cache
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss.Test\obj\Debug\netcoreapp2.2\AgileBridgeAss.Test.AssemblyInfo.cs
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss.Test\obj\Debug\netcoreapp2.2\AgileBridgeAss.Test.csproj.CopyComplete
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss.Test\obj\Debug\netcoreapp2.2\AgileBridgeAss.Test.dll
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss.Test\obj\Debug\netcoreapp2.2\AgileBridgeAss.Test.pdb

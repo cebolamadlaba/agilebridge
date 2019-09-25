@@ -1,0 +1,14 @@
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss\bin\Debug\netcoreapp2.2\AgileBridgeAss.deps.json
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss\bin\Debug\netcoreapp2.2\AgileBridgeAss.runtimeconfig.json
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss\bin\Debug\netcoreapp2.2\AgileBridgeAss.runtimeconfig.dev.json
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss\bin\Debug\netcoreapp2.2\AgileBridgeAss.dll
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.csprojAssemblyReference.cache
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.csproj.CoreCompileInputs.cache
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.RazorAssemblyInfo.cache
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.RazorAssemblyInfo.cs
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.AssemblyInfoInputs.cache
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.AssemblyInfo.cs
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.RazorTargetAssemblyInfo.cache
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss\bin\Debug\netcoreapp2.2\AgileBridgeAss.pdb
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.dll
+C:\SourceCode\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.pdb
