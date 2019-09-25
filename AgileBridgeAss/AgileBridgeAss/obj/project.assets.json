@@ -12221,11 +12221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SourceCode\\AgileBridgeAss\\AgileBridgeAss\\AgileBridgeAss.csproj",
+      "projectUniqueName": "C:\\SourceCode\\agilebridge\\AgileBridgeAss\\AgileBridgeAss\\AgileBridgeAss.csproj",
       "projectName": "AgileBridgeAss",
-      "projectPath": "C:\\SourceCode\\AgileBridgeAss\\AgileBridgeAss\\AgileBridgeAss.csproj",
+      "projectPath": "C:\\SourceCode\\agilebridge\\AgileBridgeAss\\AgileBridgeAss\\AgileBridgeAss.csproj",
       "packagesPath": "C:\\Users\\Cebo\\.nuget\\packages\\",
-      "outputPath": "C:\\SourceCode\\AgileBridgeAss\\AgileBridgeAss\\obj\\",
+      "outputPath": "C:\\SourceCode\\agilebridge\\AgileBridgeAss\\AgileBridgeAss\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

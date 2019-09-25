@@ -8,10 +8,6 @@ namespace AgileBridgeAss.MenuItems.Data
 {
     public class AgileBridgeContext : DbContext
     {
-        public AgileBridgeContext()
-        {
-        }
-
         public AgileBridgeContext(DbContextOptions<AgileBridgeContext> options) : base(options)
         {
 

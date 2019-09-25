@@ -7257,11 +7257,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SourceCode\\AgileBridgeAss\\AgileBridgeAss.Test\\AgileBridgeAss.Test.csproj",
+      "projectUniqueName": "C:\\SourceCode\\agilebridge\\AgileBridgeAss\\AgileBridgeAss.Test\\AgileBridgeAss.Test.csproj",
       "projectName": "AgileBridgeAss.Test",
-      "projectPath": "C:\\SourceCode\\AgileBridgeAss\\AgileBridgeAss.Test\\AgileBridgeAss.Test.csproj",
+      "projectPath": "C:\\SourceCode\\agilebridge\\AgileBridgeAss\\AgileBridgeAss.Test\\AgileBridgeAss.Test.csproj",
       "packagesPath": "C:\\Users\\Cebo\\.nuget\\packages\\",
-      "outputPath": "C:\\SourceCode\\AgileBridgeAss\\AgileBridgeAss.Test\\obj\\",
+      "outputPath": "C:\\SourceCode\\agilebridge\\AgileBridgeAss\\AgileBridgeAss.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7281,8 +7281,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\SourceCode\\AgileBridgeAss\\AgileBridgeAss\\AgileBridgeAss.csproj": {
-              "projectPath": "C:\\SourceCode\\AgileBridgeAss\\AgileBridgeAss\\AgileBridgeAss.csproj"
+            "C:\\SourceCode\\agilebridge\\AgileBridgeAss\\AgileBridgeAss\\AgileBridgeAss.csproj": {
+              "projectPath": "C:\\SourceCode\\agilebridge\\AgileBridgeAss\\AgileBridgeAss\\AgileBridgeAss.csproj"
             }
           }
         }

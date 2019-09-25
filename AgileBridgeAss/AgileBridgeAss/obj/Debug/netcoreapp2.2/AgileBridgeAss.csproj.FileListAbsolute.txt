@@ -12,3 +12,17 @@ C:\SourceCode\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeA
 C:\SourceCode\AgileBridgeAss\AgileBridgeAss\bin\Debug\netcoreapp2.2\AgileBridgeAss.pdb
 C:\SourceCode\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.dll
 C:\SourceCode\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.pdb
+C:\SourceCode\agilebridge\AgileBridgeAss\AgileBridgeAss\bin\Debug\netcoreapp2.2\AgileBridgeAss.deps.json
+C:\SourceCode\agilebridge\AgileBridgeAss\AgileBridgeAss\bin\Debug\netcoreapp2.2\AgileBridgeAss.runtimeconfig.json
+C:\SourceCode\agilebridge\AgileBridgeAss\AgileBridgeAss\bin\Debug\netcoreapp2.2\AgileBridgeAss.runtimeconfig.dev.json
+C:\SourceCode\agilebridge\AgileBridgeAss\AgileBridgeAss\bin\Debug\netcoreapp2.2\AgileBridgeAss.dll
+C:\SourceCode\agilebridge\AgileBridgeAss\AgileBridgeAss\bin\Debug\netcoreapp2.2\AgileBridgeAss.pdb
+C:\SourceCode\agilebridge\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.csprojAssemblyReference.cache
+C:\SourceCode\agilebridge\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.csproj.CoreCompileInputs.cache
+C:\SourceCode\agilebridge\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.RazorAssemblyInfo.cache
+C:\SourceCode\agilebridge\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.RazorAssemblyInfo.cs
+C:\SourceCode\agilebridge\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.AssemblyInfoInputs.cache
+C:\SourceCode\agilebridge\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.AssemblyInfo.cs
+C:\SourceCode\agilebridge\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.RazorTargetAssemblyInfo.cache
+C:\SourceCode\agilebridge\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.dll
+C:\SourceCode\agilebridge\AgileBridgeAss\AgileBridgeAss\obj\Debug\netcoreapp2.2\AgileBridgeAss.pdb
